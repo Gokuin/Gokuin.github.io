@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin: 0px;
+    font-family: "Comic Sans MS";
+}
+
+.about {
+    background-color: orange;
+    padding: 0px;
+}
+
+.projects {
+    background-color: orange;
+    padding: 10px;
+}
