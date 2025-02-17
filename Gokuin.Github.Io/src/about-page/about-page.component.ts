@@ -9,5 +9,4 @@ import { RouterModule } from '@angular/router';
   styleUrl: './about-page.component.css'
 })
 export class AboutPageComponent {
-
 }
